@@ -4,3 +4,6 @@ The GUI application written in python. You can easily use the app to see daily N
 If you want to use this code you have to create your own Nasa API key
 You can do this on this site https://api.nasa.gov/
 Then u can paste it to the code in line 50
+
+
+![GUI IMAGE](gui.png)
