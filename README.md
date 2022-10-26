@@ -5,5 +5,6 @@ If you want to use this code you have to create your own Nasa API key
 You can do this on this site https://api.nasa.gov/
 Then u can paste it to the code in line 50
 
+![](https://github.com/DEENUU1/Nasa-Apod/program.gif)
 
 ![GUI IMAGE](gui.png)
