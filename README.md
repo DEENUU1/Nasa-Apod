@@ -1,10 +1,28 @@
-# Nasa-Apod
-The GUI application written in python. You can easily use the app to see daily NASA photos and choose images from other dates.
 
-If you want to use this code you have to create your own Nasa API key
-You can do this on this site https://api.nasa.gov/
-Then u can paste it to the code in line 50
+## NASA APOD
+NASA APOD
+is a GUI application to browse and download NASA picture of a day, you just need to choose date and enjoy views.
 
-![](https://github.com/DEENUU1/Nasa-Apod/blob/main/program.gif)
 
-![GUI IMAGE](gui.png)
+
+## Appendix
+
+If you want to use this app you have to make your own NASA API key on this site: 
+https://api.nasa.gov/
+Just make your account and you will get API key on your email.
+After that go to 'main.py' and paste API key in line 51.
+
+
+
+## Authors
+
+- [@DEENUU1](https://www.github.com/octokatherine)
+
+
+## FAQ
+
+When english version? 
+
+Answer: Ass soon as it possible
+
+
